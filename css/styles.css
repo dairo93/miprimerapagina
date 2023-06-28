@@ -14,6 +14,12 @@ body {
     position: relative;
 }
 
+.greeting{
+  text-align: center;
+  color: blue;
+
+}
+
 .pie{
   text-align: center;
   padding:80px;
